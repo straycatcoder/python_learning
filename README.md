@@ -1,4 +1,11 @@
 # Python Learning
+## Free Cloud Jupyter Notebooks
+[Kaggle](https://www.kaggle.com/)  
+[Deepnote](https://deepnote.com/)  
+[Google Colab](https://colab.research.google.com/)  
+[Gradient](https://gradient.run/) 
+[Amazon SageMaker Studio Lab](https://studiolab.sagemaker.aws/)
+
 ## Books
 [Expert Python Programming - Fourth Edition](https://www.oreilly.com/library/view/expert-python-programming/9781801071109/)
 
