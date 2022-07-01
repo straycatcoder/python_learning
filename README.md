@@ -18,6 +18,8 @@
 
 [How To Write Unit Tests For Existing Python Code // Part 1 of 2](https://www.youtube.com/watch?v=ULxMQ57engo)  
 
+[5 Reasons Why You Should Use Type Hints In Python](https://www.youtube.com/watch?v=dgBCEB2jVU0)  
+
 ## Articles:
 [The Right Way To Compare Floats in Python](https://davidamos.dev/the-right-way-to-compare-floats-in-python/)
 >  math.isclose, Fraction, Decimal, more disscussion: https://news.ycombinator.com/item?id=30856434, generally float equal is just a bad practice
