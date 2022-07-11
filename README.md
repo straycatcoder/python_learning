@@ -8,7 +8,7 @@
 
 ## Books
 [Expert Python Programming - Fourth Edition](https://www.oreilly.com/library/view/expert-python-programming/9781801071109/)  
-[Scientific Visualization: Python + Matplotlib](https://github.com/rougier/scientific-visualization-book) 
+[Scientific Visualization: Python + Matplotlib](https://github.com/rougier/scientific-visualization-book)  
 [Python for Data Analysis, 3E](https://wesmckinney.com/book/)  
 
 ## Videos
