@@ -22,7 +22,9 @@
 
 [5 Reasons Why You Should Use Type Hints In Python](https://www.youtube.com/watch?v=dgBCEB2jVU0)   
 
-[How To Use Docker To Make Local Development A Breeze](https://www.youtube.com/watch?v=zkMRWDQV4Tg) 
+[How To Use Docker To Make Local Development A Breeze](https://www.youtube.com/watch?v=zkMRWDQV4Tg)  
+
+[HTTPX Tutorial - A next-generation HTTP client for Python](https://www.youtube.com/watch?v=qAh5dDODJ5k)  
 
 ## Articles:
 [The Right Way To Compare Floats in Python](https://davidamos.dev/the-right-way-to-compare-floats-in-python/)
