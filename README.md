@@ -5,7 +5,8 @@
 [Google Colab](https://colab.research.google.com/)  
 [Gradient](https://gradient.run/) 
 [Amazon SageMaker Studio Lab](https://studiolab.sagemaker.aws/)
-
+## Package Management
+[mamba](https://github.com/mamba-org/mamba) -- replace conda, fast! 
 ## Books
 [Expert Python Programming - Fourth Edition](https://www.oreilly.com/library/view/expert-python-programming/9781801071109/)  
 [Scientific Visualization: Python + Matplotlib](https://github.com/rougier/scientific-visualization-book)  
