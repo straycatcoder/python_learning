@@ -19,6 +19,9 @@
 [This Is Why Python Data Classes Are Awesome](https://www.youtube.com/watch?v=CvQ7e6yUtnw)  
 > dataclass: https://docs.python.org/3.9/library/dataclasses.html 
 
+[11 Tips And Tricks To Write Better Python Code](https://www.youtube.com/watch?v=8OKTAedgFYg)  
+> enumerate, list comprehension, sorted, set, generator, dict: .get()/.setdefault(),collections.Counter, f-strings, str.join(), mergedict {**d1, **d2}, if x in list  
+
 [How To Write Unit Tests For Existing Python Code // Part 1 of 2](https://www.youtube.com/watch?v=ULxMQ57engo)  
 
 [5 Reasons Why You Should Use Type Hints In Python](https://www.youtube.com/watch?v=dgBCEB2jVU0)   
