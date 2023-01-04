@@ -27,6 +27,7 @@
 [5 Reasons Why You Should Use Type Hints In Python](https://www.youtube.com/watch?v=dgBCEB2jVU0)   
 
 [How To Use Docker To Make Local Development A Breeze](https://www.youtube.com/watch?v=zkMRWDQV4Tg)  
+[How to create a great dev environment with Docker](https://www.youtube.com/watch?v=0H2miBK_gAk)  
 
 [HTTPX Tutorial - A next-generation HTTP client for Python](https://www.youtube.com/watch?v=qAh5dDODJ5k)  
 
