@@ -31,6 +31,7 @@
 
 [HTTPX Tutorial - A next-generation HTTP client for Python](https://www.youtube.com/watch?v=qAh5dDODJ5k)  
 
+[Polars: The Next Big Python Data Science Library... written in RUST?](https://www.youtube.com/watch?v=VHqn7ufiilE)  
 ## Articles:
 [The Right Way To Compare Floats in Python](https://davidamos.dev/the-right-way-to-compare-floats-in-python/)
 >  math.isclose, Fraction, Decimal, more disscussion: https://news.ycombinator.com/item?id=30856434, generally float equal is just a bad practice
