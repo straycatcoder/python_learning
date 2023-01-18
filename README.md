@@ -1,8 +1,8 @@
 # Python Learning
 ## Free Cloud Jupyter Notebooks
-[Kaggle](https://www.kaggle.com/)  
-[Deepnote](https://deepnote.com/)  
-[Google Colab](https://colab.research.google.com/)  
+[Kaggle](https://www.kaggle.com/): easy to work with the data, python 3.7  
+[Deepnote](https://deepnote.com/): can choose the python version  
+[Google Colab](https://colab.research.google.com/): python 3.7    
 [Gradient](https://gradient.run/) 
 [Amazon SageMaker Studio Lab](https://studiolab.sagemaker.aws/)
 ## Package Management
