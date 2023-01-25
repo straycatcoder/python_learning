@@ -4,7 +4,7 @@
 [Deepnote](https://deepnote.com/): can choose the python version  
 [Google Colab](https://colab.research.google.com/): python 3.7    
 [Gradient](https://gradient.run/)   
-[Amazon SageMaker Studio Lab](https://studiolab.sagemaker.aws/)
+[Amazon SageMaker Studio Lab](https://studiolab.sagemaker.aws/) **need to link a real mobile phone number (no VOIP)**  
 ## Package Management
 [mamba](https://github.com/mamba-org/mamba) -- replace conda, fast! 
 ## Books
