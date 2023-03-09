@@ -35,7 +35,7 @@
 >  performance, better syntax  
 
 [Pandas 2.0 - Everything You Need to Know](https://www.youtube.com/watch?v=cSLPyRI_ZD8)  
-> Aapache Arrow backend  
+> Aapache Arrow backend: nan value handling (e.g. nan will convert int64 to float) , speed, string vs object, interoperability
 
 ## Articles:
 [The Right Way To Compare Floats in Python](https://davidamos.dev/the-right-way-to-compare-floats-in-python/)
