@@ -37,7 +37,9 @@
 [Pandas 2.0 - Everything You Need to Know](https://www.youtube.com/watch?v=cSLPyRI_ZD8)  
 > Aapache Arrow backend: nan value handling (e.g. nan will convert int64 to float) , speed, string vs object, interoperability, arrow data type
 
-[How to Create and Use Virtual Environments in Python With Poetry](https://www.youtube.com/watch?v=0f3moPe_bhk)
+[How to Create and Use Virtual Environments in Python With Poetry](https://www.youtube.com/watch?v=0f3moPe_bhk)  
+
+[Does Python have a ternary operator?](https://www.youtube.com/watch?v=zjwhh2MEa0Q)  
 ## Articles:
 [The Right Way To Compare Floats in Python](https://davidamos.dev/the-right-way-to-compare-floats-in-python/)
 >  math.isclose, Fraction, Decimal, more disscussion: https://news.ycombinator.com/item?id=30856434, generally float equal is just a bad practice
