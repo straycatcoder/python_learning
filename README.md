@@ -42,7 +42,10 @@
 [Does Python have a ternary operator?](https://www.youtube.com/watch?v=zjwhh2MEa0Q)  
 > a if cond else b, 
 
-[How to Use Pandas With Pandera to Validate Your Data in Python](https://www.youtube.com/watch?v=-tU7fuUiq7w)
+[How to Use Pandas With Pandera to Validate Your Data in Python](https://www.youtube.com/watch?v=-tU7fuUiq7w)  
+
+[How to check whether a file exists in Python](https://www.youtube.com/watch?v=V6IX3k8PDBc)
+> pathlib.Path, try except when open file then catch FileNotFoundError. 
 ## Articles:
 [The Right Way To Compare Floats in Python](https://davidamos.dev/the-right-way-to-compare-floats-in-python/)
 >  math.isclose, Fraction, Decimal, more disscussion: https://news.ycombinator.com/item?id=30856434, generally float equal is just a bad practice
