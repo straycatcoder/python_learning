@@ -45,7 +45,12 @@
 [How to Use Pandas With Pandera to Validate Your Data in Python](https://www.youtube.com/watch?v=-tU7fuUiq7w)  
 
 [How to check whether a file exists in Python](https://www.youtube.com/watch?v=V6IX3k8PDBc)
-> pathlib.Path, try except when open file then catch FileNotFoundError. 
+> pathlib.Path, try except when open file then catch FileNotFoundError.
+
+[SQL Databases with Pandas and Python](https://www.youtube.com/watch?v=DiQ5Hni6oRI)
+> setup a testing db with docker, Dbeaver
+> create connection (engine) with sqlalchemy
+> pandas: read_sql, to_sql  
 ## Articles:
 [The Right Way To Compare Floats in Python](https://davidamos.dev/the-right-way-to-compare-floats-in-python/)
 >  math.isclose, Fraction, Decimal, more disscussion: https://news.ycombinator.com/item?id=30856434, generally float equal is just a bad practice
