@@ -48,8 +48,8 @@
 > pathlib.Path, try except when open file then catch FileNotFoundError.
 
 [SQL Databases with Pandas and Python](https://www.youtube.com/watch?v=DiQ5Hni6oRI)
-> setup a testing db with docker, Dbeaver
-> create connection (engine) with sqlalchemy
+> setup a testing db with docker, Dbeaver  
+> create connection (engine) with sqlalchemy  
 > pandas: read_sql, to_sql  
 ## Articles:
 [The Right Way To Compare Floats in Python](https://davidamos.dev/the-right-way-to-compare-floats-in-python/)
