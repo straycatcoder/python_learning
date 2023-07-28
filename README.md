@@ -50,7 +50,9 @@
 [SQL Databases with Pandas and Python](https://www.youtube.com/watch?v=DiQ5Hni6oRI)
 > setup a testing db with docker, Dbeaver  
 > create connection (engine) with sqlalchemy  
-> pandas: read_sql, to_sql  
+> pandas: read_sql, to_sql
+
+[When to (Not) Use Dunder Methods?](https://www.youtube.com/watch?v=3iJjBOne2sM)  
 ## Articles:
 [The Right Way To Compare Floats in Python](https://davidamos.dev/the-right-way-to-compare-floats-in-python/)
 >  math.isclose, Fraction, Decimal, more disscussion: https://news.ycombinator.com/item?id=30856434, generally float equal is just a bad practice
