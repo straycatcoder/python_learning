@@ -59,6 +59,8 @@
 [15 Python Libraries You Should Know About in 2023](https://www.youtube.com/watch?v=o06MyVhYte4)  
 > pendulum, pypdf, icecream, loguru, rich, argparse, tqdm, xarray, polars, seaborn, result, pydantic, fastAPI, SQLModel, httpx
 
+[5 Tips to Safely Use Credentials in Your Python Project](https://www.youtube.com/watch?v=OOvvQRBcrhI)  
+
 [Pydantic Tutorial: data validation library](https://www.youtube.com/watch?v=XIdQ6gO3Anc)  
 ## Articles:
 [The Right Way To Compare Floats in Python](https://davidamos.dev/the-right-way-to-compare-floats-in-python/)
