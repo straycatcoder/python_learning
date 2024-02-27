@@ -62,6 +62,8 @@
 [5 Tips to Safely Use Credentials in Your Python Project](https://www.youtube.com/watch?v=OOvvQRBcrhI)  
 
 [Pydantic Tutorial: data validation library](https://www.youtube.com/watch?v=XIdQ6gO3Anc)  
+
+[Build a typing assistant with Mistral 7B and Ollama](https://www.youtube.com/watch?v=IUTFrexghsQ)   
 ## Articles:
 [The Right Way To Compare Floats in Python](https://davidamos.dev/the-right-way-to-compare-floats-in-python/)
 >  math.isclose, Fraction, Decimal, more disscussion: https://news.ycombinator.com/item?id=30856434, generally float equal is just a bad practice
